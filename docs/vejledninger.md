@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Vejledninger
+nav_order: 2
+has_children: true
 ---
 
 # Vejledninger
