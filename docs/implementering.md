@@ -22,10 +22,8 @@ Der skal benyttes disse oplysninger til processen:
 |---|-----|
 | Kontaktperson | Den person, som Precio Fishbone kan kontakte om kommunens implementeringsproces. |
 | Faktureringsoplysninger | EAN- og CVR-nummer mv. som Precio Fishbone kan benytte til fakturering |
-| E-mail afsenderadresse | OS2valghalla udsender mails fra mailadressen [xxxxx]@os2valghalla.dk <br>Hvad vil kommunen gerne have til at stå før @os2valghalla.dk? Det kan fx være “korsbaek@os2valghalla.dk” <br>Navnet skal også angives, selvom kommunen ikke planlægger at benytte OS2valghallas mailfunktion |
-| E-mail afsendernavn | Hvilket navn skal mails fra OS2valghalla have som afsender? Det kan fx være “Valgsekretariatet - Korsbæk Kommune”
-
-Navnet skal også angives, selvom kommunen ikke planlægger at benytte OS2valghallas mailfunktion |
+| E-mail afsenderadresse | OS2valghalla udsender mails fra mailadressen [xxxxx]@os2valghalla.dk <br><br>Hvad vil kommunen gerne have til at stå før @os2valghalla.dk? Det kan fx være “korsbaek@os2valghalla.dk” <br><br>Navnet skal også angives, selvom kommunen ikke planlægger at benytte OS2valghallas mailfunktion |
+| E-mail afsendernavn | Hvilket navn skal mails fra OS2valghalla have som afsender? Det kan fx være “Valgsekretariatet - Korsbæk Kommune” <br><br>Navnet skal også angives, selvom kommunen ikke planlægger at benytte OS2valghallas mailfunktion |
 | Digital Post afsendernavn | Det navn, der kan ses i slutbrugerens digitale postkasse |
 | Digital Post CVR-nummer | Det CVR-nummer der bruges til at sende Digital post “på vegne af" |
 | Ønskes adgang til logfiler? | Se mere i afsnittet IT- og administrationsopgaver herunder |
