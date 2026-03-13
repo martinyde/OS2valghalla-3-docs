@@ -9,7 +9,7 @@ tags: ['old-id:40']
 
 ##  Administrativ hjemmeside 
 
-Adgangss- og rettighedsstyring til den administrative hjemmeside styres ved hjælp af [Fælleskommunal Adgangsstyring for brugere](https://digitaliseringskataloget.dk/l%C3%B8sninger/adgangsstyring-brugere) (også kendt som Context handler). Det er altså kommunens egen opsætning af brugere og jobfunktionsroller, som styrer, hvilke medarbejdere der kan få adgang.
+Adgangs- og rettighedsstyring til den administrative hjemmeside styres ved hjælp af [Fælleskommunal Adgangsstyring for brugere](https://digitaliseringskataloget.dk/l%C3%B8sninger/adgangsstyring-brugere) (også kendt som Context handler). Det er altså kommunens egen opsætning af brugere og jobfunktionsroller, som styrer, hvilke medarbejdere der kan få adgang.
 
 Anonyme brugere kan ikke tilgå den administrative hjemmeside, men vil blive mødt af et krav om login, hvis det forsøges.
 

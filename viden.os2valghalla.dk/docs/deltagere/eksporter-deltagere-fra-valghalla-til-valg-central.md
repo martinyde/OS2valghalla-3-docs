@@ -1,11 +1,9 @@
 ---
 layout: default
 title: "Eksporter deltagere fra Valghalla til Valg Central"
-parent: "Deltagere"
-nav_order: auto
+parent: Deltagere
 tags: ['old-id:57', 'Deltagere']
 ---
-
 # Eksporter deltagere fra Valghalla til Valg Central
 
 ##  Eksporter deltagere fra Valghalla 

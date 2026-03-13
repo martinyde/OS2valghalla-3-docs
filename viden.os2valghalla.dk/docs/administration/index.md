@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Administration"
-parent: "Administration"
 nav_order: auto
+has_children: true
 tags: ['Administration', 'old-id:6']
 ---
 
